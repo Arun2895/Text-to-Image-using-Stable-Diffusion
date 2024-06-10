@@ -1,0 +1,13 @@
+#python -m venv myenv (used to create a virtual environment)
+#myenv\Scripts\activate (activating)
+#deactivate
+
+tqdm  #tqdm is a Python library used to add a progress bar to loops and other iterative processes, providing a visual indication of progress during execution
+accelerate  #accelerate is a library developed by Hugging Face that provides a simple way to train and run models on various hardware accelerators.
+torch #torch is a core library in PyTorch that provides a flexible and efficient framework for tensor computations and building deep learning models
+diffusers #diffusers is a library that provides models for generating images, audio, and more, allowing users to easily access and leverage these powerful generative models.
+numpy #numpy is Used for efficient array and numerical operations.
+pandas #pandas is used for Data manipulation and analysis library in Python, providing versatile data structures and functions for working with structured data
+transformers #transformers is an open-source library for natural language processing (NLP), providing a wide range of pre-trained models, fine-tuning tools, and utilities to work with state-of-the-art NLP models
+matplotlib #Comprehensive library for creating static, animated, and interactive visualizations in Python. It provides a MATLAB-like interface and supports a wide variety of plots and customization options for data visualization.
+opencv-python #OpenCV is a powerful open-source computer vision and machine learning library with extensive functionalities for image processing and analysis.
